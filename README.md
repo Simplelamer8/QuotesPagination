@@ -1,3 +1,5 @@
+### Выбрал shadcn UI потому что это простой и легкий в использовании интсрумент
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
