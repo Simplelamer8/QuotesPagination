@@ -1,0 +1,26 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ],
+  "compilerOptions": {
+    // "jsx": "react-jsx",
+    // "jsxImportSource": "@emotion/react",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+  },"paths": {
+      "@App/*": [
+        "src/*"
+      ],
+      "@MyComponents/*": [
+        "src/MyComponents/*"
+      ]
+    },
+}

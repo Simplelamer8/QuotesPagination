@@ -1,0 +1,17 @@
+.element
+{
+    display: flex;
+    margin-bottom: 3rem;
+    /* gap: 2rem; */
+    justify-content: space-between;
+    color: black;
+}
+.text
+{
+    max-width: 70%;
+    text-align: left;
+}
+.trigger
+{
+    margin-top: -4%;
+}
